@@ -53,7 +53,7 @@ links.Delete(link);
 
 ## Description
 
-Inspired by the work of Simon Williams ([The Associative Model of Data](https://en.wikipedia.org/w/index.php?title=Associative_model_of_data&oldid=913469847)), [book](https://web.archive.org/web/20181219134621/http://sentences.com/docs/amd.pdf), [whitepaper](http://iacis.org/iis/2009/P2009_1301.pdf).
+Inspired by the work of Simon Williams ([The Associative Model of Data](https://web.archive.org/web/20210814063207/https://en.wikipedia.org/wiki/Associative_model_of_data)), [book](https://web.archive.org/web/20181219134621/http://sentences.com/docs/amd.pdf), [whitepaper](http://iacis.org/iis/2009/P2009_1301.pdf).
 
 Comparison of models:
 
