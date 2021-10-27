@@ -96,6 +96,6 @@ You can also get [real-time](https://en.wikipedia.org/wiki/Real-time) [support](
 
 ## Contacts
 
-https://vk.com/linksplatform
+[vk.com/linksplatform](https://vk.com/linksplatform)
 
-https://vk.com/konard
+[vk.com/konard](https://vk.com/konard)
