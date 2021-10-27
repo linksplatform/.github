@@ -10,7 +10,7 @@ At the moment we use [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_lan
 
 [Graphical introduction](https://github.com/Konard/LinksPlatform/wiki/How-it-all-began)
 
-## [Quick start example](https://github.com/linksplatform/Examples.Doublets.CRUD.DotNet)
+## [Quick start example](https://github.com/linksplatform/Examples.Doublets.CRUD.DotNet) | [Run .NET fiddle](https://dotnetfiddle.net/Y7Zvt0)
 
 ```C#
 using System;
