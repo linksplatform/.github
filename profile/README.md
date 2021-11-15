@@ -3,7 +3,7 @@
 The Links Platform is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform_software) [modular](https://en.wikipedia.org/wiki/Modular_programming) [framework](https://en.wikipedia.org/wiki/Software_framework) (each [library](https://en.wikipedia.org/wiki/Library_(computing)) of this [framework](https://en.wikipedia.org/wiki/Software_framework) can be used separately).
 
 It includes:
-1. Two [implementations](https://en.wikipedia.org/wiki/Software_implementation) for [database engines](https://en.wikipedia.org/wiki/Database_engine) construction based on [the associative data model](https://en.wikipedia.org/wiki/Associative_model_of_data): [Doublets](https://github.com/linksplatform/Data.Doublets) and [Triplets](https://github.com/linksplatform/Data.Triplets);
+1. Two [implementations](https://en.wikipedia.org/wiki/Software_implementation) for [database engines](https://en.wikipedia.org/wiki/Database_engine) construction based on [the associative data model](https://web.archive.org/web/20210814063207/https://en.wikipedia.org/wiki/Associative_model_of_data): [Doublets](https://github.com/linksplatform/Data.Doublets) and [Triplets](https://github.com/linksplatform/Data.Triplets);
 2. [Source code](https://en.wikipedia.org/wiki/Source_code) [translators](https://en.wikipedia.org/wiki/Translator_(computing)) (for example [from C# to C++](https://github.com/linksplatform/RegularExpressions.Transformer.CSharpToCpp));
 3. The [bot](https://github.com/linksplatform/Bot).
 
