@@ -1,6 +1,11 @@
 # LinksPlatform ([русская версия](https://github.com/Konard/LinksPlatform/blob/master/README.ru.md))
 
-The Links Platform is a [modular](https://en.wikipedia.org/wiki/Modular_programming) [framework](https://en.wikipedia.org/wiki/Software_framework) (each [library](https://en.wikipedia.org/wiki/Library_(computing)) of this [framework](https://en.wikipedia.org/wiki/Software_framework) can be used separately), that includes two [DBMS](https://en.wikipedia.org/wiki/Database#Database_management_system) [implementations](https://en.wikipedia.org/wiki/Software_implementation) based on [the associative data model](https://en.wikipedia.org/wiki/Associative_model_of_data): [Doublets](https://github.com/linksplatform/Data.Doublets) and [Triplets](https://github.com/linksplatform/Data.Triplets); as well as [translators](https://en.wikipedia.org/wiki/Translator_(computing)) (for example [from C# to C++](https://github.com/linksplatform/RegularExpressions.Transformer.CSharpToCpp)) and [bot](https://github.com/linksplatform/Bot).
+The Links Platform is a [modular](https://en.wikipedia.org/wiki/Modular_programming) [framework](https://en.wikipedia.org/wiki/Software_framework) (each [library](https://en.wikipedia.org/wiki/Library_(computing)) of this [framework](https://en.wikipedia.org/wiki/Software_framework) can be used separately).
+
+It includes:
+1. Two [implementations](https://en.wikipedia.org/wiki/Software_implementation) for [database engines](https://en.wikipedia.org/wiki/Database_engine) construction based on [the associative data model](https://en.wikipedia.org/wiki/Associative_model_of_data): [Doublets](https://github.com/linksplatform/Data.Doublets) and [Triplets](https://github.com/linksplatform/Data.Triplets);
+2. Source code [translators](https://en.wikipedia.org/wiki/Translator_(computing)) (for example [from C# to C++](https://github.com/linksplatform/RegularExpressions.Transformer.CSharpToCpp));
+3. The [bot](https://github.com/linksplatform/Bot).
 
 At the moment we use [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [programming languages](https://en.wikipedia.org/wiki/Programming_language).
 
