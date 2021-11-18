@@ -91,6 +91,12 @@ One of the most important [goals](https://en.wikipedia.org/wiki/Goal) of the [pr
 
 [Project status](https://github.com/orgs/linksplatform/projects)
 
+## Master plan
+1. Implement the best possible database implementation in the world.
+2. Use it to build extendable source-to-source translators for popular programming languages.
+3. Use database and translators to make a GitHub Bot that can execute all the tasks average programmer can do.
+4. Automate the automation itself completely.
+
 ## [Frequently asked questions](https://github.com/Konard/LinksPlatform/wiki/FAQ)
 
 ## [Support](https://en.wikipedia.org/wiki/Technical_support)
