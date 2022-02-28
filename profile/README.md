@@ -1,5 +1,9 @@
 # LinksPlatform ([русская версия](https://github.com/Konard/LinksPlatform/blob/master/README.ru.md))
 
+> make links, not war
+
+> links are love
+
 The Links Platform is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform_software) [modular](https://en.wikipedia.org/wiki/Modular_programming) [framework](https://en.wikipedia.org/wiki/Software_framework) for automation of automation (each [library](https://en.wikipedia.org/wiki/Library_(computing)) of this [framework](https://en.wikipedia.org/wiki/Software_framework) can be used separately).
 
 It includes:
