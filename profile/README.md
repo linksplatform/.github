@@ -1,5 +1,7 @@
 # LinksPlatform ([русская версия](https://github.com/Konard/LinksPlatform/blob/master/README.ru.md))
 
+> ☮
+
 > make links, not war
 
 > links are love
