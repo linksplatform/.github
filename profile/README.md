@@ -113,6 +113,8 @@ You can also get [real-time](https://en.wikipedia.org/wiki/Real-time) [support](
 
 ## Contacts
 
+[https://discord.gg/eEXJyjWv5e](https://discord.gg/eEXJyjWv5e) (our official Discord server).
+
 [vk.com/linksplatform](https://vk.com/linksplatform)
 
 [vk.com/konard](https://vk.com/konard)
