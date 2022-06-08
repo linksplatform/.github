@@ -1,4 +1,4 @@
-# LinksPlatform ([русская версия](README.ru.md))
+# LinksPlatform ([русская версия](https://github.com/linksplatform/.github/blob/main/profile/README.ru.md))
 
 > ☮
 
