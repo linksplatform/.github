@@ -1,16 +1,10 @@
 # ПлатформаСвязей ([english version](https://github.com/linksplatform/.github/blob/main/profile/README.md))
 
-> ☮
-
-> связывайте, а не воюйте
-
-> связи есть любовь
-
 Платформа Связей — это [кроссплатформенный](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C) [модульный](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) [фреймворк](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA) для [автоматизации](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F) [автоматизации](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
 (каждая [библиотека](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)) этого [фреймворка](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA) может использоваться отдельно).
 
 Он содержит:
-1. Две [реализации](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F) [СУБД](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B1%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) на основе [ассоциативной модели данных](https://web.archive.org/web/20210814063207/https://en.wikipedia.org/wiki/Associative_model_of_data): [Дуплеты](https://github.com/linksplatform/Data.Doublets) и [Триплеты](https://github.com/linksplatform/Data.Triplets);
+1. Две [реализации](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F) для сборки [движков СУБД](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B1%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) на основе [ассоциативной модели данных](https://web.archive.org/web/20210814063207/https://en.wikipedia.org/wiki/Associative_model_of_data): [Дуплеты](https://github.com/linksplatform/Data.Doublets) и [Триплеты](https://github.com/linksplatform/Data.Triplets);
 2. [Трансляторы](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%82%D0%BE%D1%80) [исходного кода](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4) (например [из C# в C++](https://github.com/linksplatform/RegularExpressions.Transformer.CSharpToCpp));
 3. [Бота](https://github.com/linksplatform/Bot).
 
@@ -22,7 +16,7 @@
 
 [Графическое вступление](https://github.com/Konard/LinksPlatform/wiki/%D0%9E-%D1%82%D0%BE%D0%BC,-%D0%BA%D0%B0%D0%BA-%D0%B2%D1%81%D1%91-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%BB%D0%BE%D1%81%D1%8C)
 
-## [Пример для быстрого старта](https://github.com/linksplatform/Examples.Doublets.CRUD.DotNet)
+## [Пример для быстрого старта](https://github.com/linksplatform/Examples.Doublets.CRUD.DotNet) | [Запустить в .NET fiddle](https://dotnetfiddle.net/j65zxd)
 
 ```C#
 using System;
@@ -77,15 +71,16 @@ links.Delete(link);
 
 Есть два варианта структуры Связи:
 
+- Нетипизированная, каждая связь содержит Source (Начало, Подлежащее) и Target (Конец, Сказуемое, Дополнение):
+
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/ST-dots.png" width="400" title="Связь Начало-Конец, нетипизированная" alt="Связь Начало-Конец, нетипизированная" />
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/doublet-colored.png" width="400" title="Связь Начало-Конец, нетипизированная" alt="Связь Начало-Конец, нетипизированная" />
 
-- Нетипизированная, каждая связь содержит Source (Начало, Подлежащее) и Target (Конец, Сказуемое, Дополнение).
+- Типизированная, с добавленным Linker (Глагол, Тип, Связка, Предикат, Сказуемое), так, что теперь любая дополнительная информация о типе соединения между двумя связями может быть записана в это дополнительное поле:
 
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/SLT-dots.png" width="400" title="Связь Начало-Связка-Конец, типизированная" alt="Связь Начало-Связка-Конец, типизированная" />
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/triplet-colored.png" width="400" title="Связь Начало-Связка-Конец, типизированная" alt="Связь Начало-Связка-Конец, типизированная" />
 
-- Типизированная, с добавленным Linker (Глагол, Тип, Связка, Предикат, Сказуемое), так, что теперь любая дополнительная информация о типе соединения между двумя связями может быть записана в это дополнительное поле.
 
 Платформа Связей запланирована как система, которая комбинирует хранилище ассоциативной памяти (Связи) и движок выполнения трансформаций (Триггеры). Эту систему можно будет программировать динамически, благодаря тому факту, что все алгоритмы будут восприниматься как данные внутри этого хранилища. Такие алгоритмы также способны изменять сами себя в режиме реального времени на основе входных данных из окружающей среды. Платформа Связей это один из способов моделирования высокоуровневых эффектов ассоциативной памяти человеческого разума.
 
