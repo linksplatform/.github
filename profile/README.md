@@ -1,11 +1,5 @@
 # LinksPlatform ([русская версия](https://github.com/linksplatform/.github/blob/main/profile/README.ru.md))
 
-> ☮
-
-> make links, not war
-
-> links are love
-
 The Links Platform is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform_software) [modular](https://en.wikipedia.org/wiki/Modular_programming) [framework](https://en.wikipedia.org/wiki/Software_framework) for [automation](https://en.wikipedia.org/wiki/Automation) of [automation](https://en.wikipedia.org/wiki/Automation) (each [library](https://en.wikipedia.org/wiki/Library_(computing)) of this [framework](https://en.wikipedia.org/wiki/Software_framework) can be used separately).
 
 It includes:
@@ -21,7 +15,7 @@ At the moment we use [Rust](https://en.wikipedia.org/wiki/Rust_(programming_lang
 
 [Graphical introduction](https://github.com/Konard/LinksPlatform/wiki/How-it-all-began)
 
-## [Quick start example](https://github.com/linksplatform/Examples.Doublets.CRUD.DotNet) | [Run .NET fiddle](https://dotnetfiddle.net/Y7Zvt0)
+## [Quick start example](https://github.com/linksplatform/Examples.Doublets.CRUD.DotNet) | [Run in .NET fiddle](https://dotnetfiddle.net/Y7Zvt0)
 
 ```C#
 using System;
@@ -76,15 +70,16 @@ This platform uses a unified [data type](https://en.wikipedia.org/wiki/Data_type
 
 There are two variants of Link [structure](https://en.wikipedia.org/wiki/Data_structure):
 
+- [Untyped](https://en.wikipedia.org/wiki/Type_theory), each link contains [Source](https://en.wikipedia.org/wiki/Source) ([beginning](https://en.wikipedia.org/wiki/Begin), [start](https://en.wikipedia.org/wiki/Start), [first](https://en.wikipedia.org/wiki/First), [left](https://en.wikipedia.org/wiki/Left), [subject](https://en.wikipedia.org/wiki/Subject)) and [Target](https://en.wikipedia.org/wiki/Target) ([ending](https://en.wikipedia.org/wiki/End), [stop](https://en.wikipedia.org/wiki/Stop), [last](https://en.wikipedia.org/wiki/Last_(disambiguation)), [right](https://en.wikipedia.org/wiki/Right_(disambiguation)), [predicate](https://en.wikipedia.org/wiki/Predicate), [object](https://en.wikipedia.org/wiki/Object)):
+
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/ST-dots.png" width="400" title="Source-Target link, untyped" alt="Source-Target link, untyped" />
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/doublet-colored.png" width="400" title="Source-Target link, untyped" alt="Source-Target link, untyped" />
 
-- [Untyped](https://en.wikipedia.org/wiki/Type_theory), each link contains [Source](https://en.wikipedia.org/wiki/Source) ([beginning](https://en.wikipedia.org/wiki/Begin), [start](https://en.wikipedia.org/wiki/Start), [first](https://en.wikipedia.org/wiki/First), [left](https://en.wikipedia.org/wiki/Left), [subject](https://en.wikipedia.org/wiki/Subject)) and [Target](https://en.wikipedia.org/wiki/Target) ([ending](https://en.wikipedia.org/wiki/End), [stop](https://en.wikipedia.org/wiki/Stop), [last](https://en.wikipedia.org/wiki/Last_(disambiguation)), [right](https://en.wikipedia.org/wiki/Right_(disambiguation)), [predicate](https://en.wikipedia.org/wiki/Predicate), [object](https://en.wikipedia.org/wiki/Object)).
+
+- [Typed](https://en.wikipedia.org/wiki/Type_theory) ([semantic](https://en.wikipedia.org/wiki/Semantics)), with added [Linker](https://en.wikipedia.org/wiki/Linker) ([verb](https://en.wikipedia.org/wiki/Verb), [action](https://en.wikipedia.org/wiki/Action_(philosophy)), [type](https://en.wikipedia.org/wiki/Type_system), [category](https://en.wikipedia.org/wiki/Category_theory), [predicate](https://en.wikipedia.org/wiki/Predicate), [transition](https://en.wikipedia.org/wiki/Transition_system), [algorithm](https://en.wikipedia.org/wiki/Algorithm)), so any additional [information](https://en.wikipedia.org/wiki/Information) about a [type](https://en.wikipedia.org/wiki/Type_theory) of [connection](https://en.wikipedia.org/wiki/Association_(psychology)) between two links can be [stored](https://en.wikipedia.org/wiki/Data_storage) here:
 
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/SLT-dots.png" width="400" title="Source-Linker-Target link, typed" alt="Source-Linker-Target link, typed" />
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/triplet-colored.png" width="400" title="Source-Linker-Target link, typed" alt="Source-Linker-Target link, typed" />
-
-- [Typed](https://en.wikipedia.org/wiki/Type_theory) ([semantic](https://en.wikipedia.org/wiki/Semantics)), with added [Linker](https://en.wikipedia.org/wiki/Linker) ([verb](https://en.wikipedia.org/wiki/Verb), [action](https://en.wikipedia.org/wiki/Action_(philosophy)), [type](https://en.wikipedia.org/wiki/Type_system), [category](https://en.wikipedia.org/wiki/Category_theory), [predicate](https://en.wikipedia.org/wiki/Predicate), [transition](https://en.wikipedia.org/wiki/Transition_system), [algorithm](https://en.wikipedia.org/wiki/Algorithm)), so any additional [information](https://en.wikipedia.org/wiki/Information) about a [type](https://en.wikipedia.org/wiki/Type_theory) of [connection](https://en.wikipedia.org/wiki/Association_(psychology)) between two links can be [stored](https://en.wikipedia.org/wiki/Data_storage) here.
 
 Links Platform [planned](https://en.wikipedia.org/wiki/Plan) as a [system](https://en.wikipedia.org/wiki/System_(disambiguation)), that [combines](https://en.wikipedia.org/wiki/Combine) simple [associative memory](https://en.wikipedia.org/wiki/Associative_memory) [storage](https://en.wikipedia.org/wiki/Computer_data_storage) (Links) and [transformation](https://en.wikipedia.org/wiki/Transformation) [execution](https://en.wikipedia.org/wiki/Execution_(computing)) [engine](https://en.wikipedia.org/wiki/Database_engine) (Triggers). There will be an ability to [program](https://en.wikipedia.org/wiki/Program_(machine)) that [system](https://en.wikipedia.org/wiki/System_(disambiguation)) dynamically, due to the [fact](https://en.wikipedia.org/wiki/Fact) that all [algorithms](https://en.wikipedia.org/wiki/Algorithm) will be treated as [data](https://en.wikipedia.org/wiki/Data_(disambiguation)) inside the [storage](https://en.wikipedia.org/wiki/Computer_data_storage). Such [algorithms](https://en.wikipedia.org/wiki/Algorithm) can also change themselves in [real-time](https://en.wikipedia.org/wiki/Real-time) based on [input](https://en.wikipedia.org/wiki/Input) from the [environment](https://en.wikipedia.org/wiki/Environment). The Links Platform is a [method](https://en.wikipedia.org/wiki/Method) of [modeling](https://en.wikipedia.org/wiki/Data_modeling) the high-level [associative memory](https://en.wikipedia.org/wiki/Associative_memory) [effects](https://en.wikipedia.org/wiki/Effect) of [human](https://en.wikipedia.org/wiki/Human) [mind](https://en.wikipedia.org/wiki/Mind).
 
