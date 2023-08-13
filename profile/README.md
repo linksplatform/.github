@@ -1,4 +1,4 @@
-# LinksPlatform ([русская версия](https://github.com/linksplatform/.github/blob/main/profile/README.ru.md))
+# LinksPlatform \[L ↦ L²\] ([русская версия](https://github.com/linksplatform/.github/blob/main/profile/README.ru.md))
 
 The Links Platform is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform_software) [modular](https://en.wikipedia.org/wiki/Modular_programming) [framework](https://en.wikipedia.org/wiki/Software_framework) for [automation](https://en.wikipedia.org/wiki/Automation) of [automation](https://en.wikipedia.org/wiki/Automation) (each [library](https://en.wikipedia.org/wiki/Library_(computing)) of this [framework](https://en.wikipedia.org/wiki/Software_framework) can be used separately).
 
@@ -70,13 +70,13 @@ This platform uses a unified [data type](https://en.wikipedia.org/wiki/Data_type
 
 There are two variants of Link [structure](https://en.wikipedia.org/wiki/Data_structure):
 
-- [Untyped](https://en.wikipedia.org/wiki/Type_theory), each link contains [Source](https://en.wikipedia.org/wiki/Source) ([beginning](https://en.wikipedia.org/wiki/Begin), [start](https://en.wikipedia.org/wiki/Start), [first](https://en.wikipedia.org/wiki/First), [left](https://en.wikipedia.org/wiki/Left), [subject](https://en.wikipedia.org/wiki/Subject)) and [Target](https://en.wikipedia.org/wiki/Target) ([ending](https://en.wikipedia.org/wiki/End), [stop](https://en.wikipedia.org/wiki/Stop), [last](https://en.wikipedia.org/wiki/Last_(disambiguation)), [right](https://en.wikipedia.org/wiki/Right_(disambiguation)), [predicate](https://en.wikipedia.org/wiki/Predicate), [object](https://en.wikipedia.org/wiki/Object)):
+- [Untyped](https://en.wikipedia.org/wiki/Type_theory) \[L ↦ L²\], each link contains [Source](https://en.wikipedia.org/wiki/Source) ([beginning](https://en.wikipedia.org/wiki/Begin), [start](https://en.wikipedia.org/wiki/Start), [first](https://en.wikipedia.org/wiki/First), [left](https://en.wikipedia.org/wiki/Left), [subject](https://en.wikipedia.org/wiki/Subject)) and [Target](https://en.wikipedia.org/wiki/Target) ([ending](https://en.wikipedia.org/wiki/End), [stop](https://en.wikipedia.org/wiki/Stop), [last](https://en.wikipedia.org/wiki/Last_(disambiguation)), [right](https://en.wikipedia.org/wiki/Right_(disambiguation)), [predicate](https://en.wikipedia.org/wiki/Predicate), [object](https://en.wikipedia.org/wiki/Object)):
 
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/ST-dots.png" width="400" title="Source-Target link, untyped" alt="Source-Target link, untyped" />
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/doublet-colored.png" width="400" title="Source-Target link, untyped" alt="Source-Target link, untyped" />
 
 
-- [Typed](https://en.wikipedia.org/wiki/Type_theory) ([semantic](https://en.wikipedia.org/wiki/Semantics)), with added [Linker](https://en.wikipedia.org/wiki/Linker) ([verb](https://en.wikipedia.org/wiki/Verb), [action](https://en.wikipedia.org/wiki/Action_(philosophy)), [type](https://en.wikipedia.org/wiki/Type_system), [category](https://en.wikipedia.org/wiki/Category_theory), [predicate](https://en.wikipedia.org/wiki/Predicate), [transition](https://en.wikipedia.org/wiki/Transition_system), [algorithm](https://en.wikipedia.org/wiki/Algorithm)), so any additional [information](https://en.wikipedia.org/wiki/Information) about a [type](https://en.wikipedia.org/wiki/Type_theory) of [connection](https://en.wikipedia.org/wiki/Association_(psychology)) between two links can be [stored](https://en.wikipedia.org/wiki/Data_storage) here:
+- [Typed](https://en.wikipedia.org/wiki/Type_theory) \[L ↦ L³\] ([semantic](https://en.wikipedia.org/wiki/Semantics)), with added [Linker](https://en.wikipedia.org/wiki/Linker) ([verb](https://en.wikipedia.org/wiki/Verb), [action](https://en.wikipedia.org/wiki/Action_(philosophy)), [type](https://en.wikipedia.org/wiki/Type_system), [category](https://en.wikipedia.org/wiki/Category_theory), [predicate](https://en.wikipedia.org/wiki/Predicate), [transition](https://en.wikipedia.org/wiki/Transition_system), [algorithm](https://en.wikipedia.org/wiki/Algorithm)), so any additional [information](https://en.wikipedia.org/wiki/Information) about a [type](https://en.wikipedia.org/wiki/Type_theory) of [connection](https://en.wikipedia.org/wiki/Association_(psychology)) between two links can be [stored](https://en.wikipedia.org/wiki/Data_storage) here:
 
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/SLT-dots.png" width="400" title="Source-Linker-Target link, typed" alt="Source-Linker-Target link, typed" />
 > <img src="https://raw.githubusercontent.com/LinksPlatform/Documentation/master/doc/triplet-colored.png" width="400" title="Source-Linker-Target link, typed" alt="Source-Linker-Target link, typed" />
@@ -113,3 +113,9 @@ You can also get [real-time](https://en.wikipedia.org/wiki/Real-time) [support](
 [vk.com/linksplatform](https://vk.com/linksplatform)
 
 [vk.com/konard](https://vk.com/konard)
+
+## P.S.
+
+```
+L ↦ L × L
+```
