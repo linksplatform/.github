@@ -94,9 +94,20 @@ One of the most important [goals](https://en.wikipedia.org/wiki/Goal) of the [pr
 
 ## Master plan
 1. Implement the best possible database implementation in the world.
-2. Use it to build extendable source-to-source translators for popular programming languages.
-3. Use database and translators to make a GitHub Bot that can execute all the tasks average programmer can do.
+  * https://github.com/link-foundation/link-cli
+3. Use it to build extendable source-to-source translators for popular programming languages.
+  * https://github.com/linksplatform/RegularExpressions.Transformer
+  * https://github.com/linksplatform/RegularExpressions.Transformer
+  * https://github.com/linksplatform/RegularExpressions.Transformer.CSharpToCpp
+  * https://github.com/linksplatform/RegularExpressions.Transformer.CSharpToPython
+  * https://github.com/linksplatform/RegularExpressions.Transformer.CppToJava
+  * https://github.com/linksplatform/RegularExpressions.Transformer.PythonToNim
+  * https://github.com/deep-assistant/human-language
+4. Use database and translators to make a GitHub Bot that can execute all the tasks average programmer can do.
+  * https://github.com/deep-assistant
+  * http://github.com/linksplatform/bot
 4. Automate the automation itself completely.
+  * https://github.com/konard/problem-solving
 
 ## [Frequently asked questions](https://github.com/Konard/LinksPlatform/wiki/FAQ)
 
